@@ -1,0 +1,38 @@
+feature_name,f_index
+wind_speed,4
+pitch_moto_tmp difference_tmp,4
+pitch_angle^2,4
+difference_tmp,3
+pitch_moto_tmp,3
+pitch_angle,3
+wind_speed power,3
+power,3
+wind_speed generator_speed,3
+pitch_angle difference_tmp,3
+yaw_position pitch_moto_tmp,3
+generator_speed pitch_angle,3
+wind_speed^2,3
+power^2,2
+pitch_ng5_tmp difference_tmp,2
+generator_speed,2
+pitch_moto_tmp^2,2
+wind_speed pitch_angle,2
+yaw_position pitch_angle,2
+generator_speed difference_tmp,1
+yaw_position difference_tmp,1
+power difference_tmp,1
+pitch_angle difference_wind_direction,1
+pitch_ng5_tmp difference_wind_direction,1
+yaw_position difference_wind_direction,1
+power pitch_angle,1
+yaw_position pitch_ng5_tmp,1
+pitch_angle pitch_moto_tmp,1
+wind_speed difference_wind_direction,1
+difference_wind_direction^2,1
+generator_speed yaw_position,1
+generator_speed pitch_moto_tmp,1
+power yaw_position,1
+difference_tmp difference_wind_direction,1
+yaw_position^2,1
+generator_speed difference_wind_direction,1
+yaw_position,1
