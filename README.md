@@ -1,7 +1,7 @@
 # 2017-Industrial-Bigdata
 - 首届（2017）中国工业大数据创新大赛[2017_Industrial_Bigdata_Innovation_Competition](http://www.industrial-bigdata.com/index.jsp?_t=1507361284976)
 - Time：2017.06-2017.10
-- Competition Topic:(风机叶片结冰预测大赛)[http://www.industrial-bigdata.com/competition/competitionAction!showDetail.action?competition.competitionId=1]
+- Competition Topic:[风机叶片结冰预测大赛](http://www.industrial-bigdata.com/competition/competitionAction!showDetail.action?competition.competitionId=1)
 
 ### 1.Introduction
 This repository shares the process of Machine Learning to **predict whether the leaves of wind turbines are frozen**.In the homepage of competition, it introduces the detail information of competiton.The data come from a system called "SCADA" that can manage, monitor and control the whole wind field.The SCADA can provide environment parameters, technique parameters, control parameters and other parameters about running wind turbines.The data contains **28 continuous numerical variables**, that includes many dimension，such as technique parameters, environment parameters and so on.The following section describes the procedure to figure out **a binary classification problem** in detail. The main procedure flow incorporate **data-preprocessing -> feature-engineering -> metrics-selection -> model-building -> model-selection -> parameters-tuning -> predict testset**.
